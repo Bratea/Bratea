@@ -15,23 +15,23 @@
   <text x="600" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="20" fill="#8b949e" text-anchor="middle">tongtong — zsh — ~/developer</text>
 
   <!-- 名字 -->
-  <text x="72" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="68" font-weight="700" fill="#e6edf3">Tongtong</text>
-  <text x="430" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" font-weight="600" fill="#8b949e">aka Bratea</text>
+  <text id="name" x="72" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="68" font-weight="700" fill="#e6edf3">Tongtong</text>
+  <text id="aka" x="430" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" font-weight="600" fill="#8b949e">aka Bratea</text>
 
   <!-- tagline -->
-  <text x="72" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="500" fill="#f89820">Java Backend Developer · CS Student · Blogger</text>
+  <text id="tagline" x="72" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="500" fill="#f89820">Java Backend Developer · CS Student · Blogger</text>
 
   <!-- 分隔线 -->
   <line x1="72" y1="196" x2="1128" y2="196" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- 终端内容 -->
-  <text x="72" y="236" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ whoami</text>
-  <text x="72" y="272" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> A developer who loves coding</text>
+  <text id="t1" x="72" y="236" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ whoami</text>
+  <text id="t2" x="72" y="272" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> A developer who loves coding</text>
 
-  <text x="72" y="312" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ skills</text>
-  <text x="72" y="348" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Java · Python · Vue · React</text>
+  <text id="t3" x="72" y="312" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ skills</text>
+  <text id="t4" x="72" y="348" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Java · Python · Vue · React</text>
 
-  <text x="72" y="388" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ welcome</text>
-  <text x="72" y="424" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Welcome to my GitHub! 👋</text>
-  <rect x="475" y="400" width="14" height="26" rx="2" fill="#e6edf3"/>
+  <text id="t5" x="72" y="388" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ welcome</text>
+  <text id="t6" x="72" y="424" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Welcome to my GitHub! 👋</text>
+  <rect id="cursor" x="475" y="400" width="14" height="26" rx="2" fill="#e6edf3"/>
 </svg>
