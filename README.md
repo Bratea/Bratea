@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="Tongtong (Bratea) — Java Backend Developer, CS student. Animated terminal intro: whoami / skills (Java · Python · Vue · React) / welcome.">
+  <img src="./assets/readme/hero-shark-wave.gif" width="100%" alt="Tongtong (Bratea) — Java Backend Developer, CS student. Animated terminal intro: whoami / skills (Java · Python · Vue · React) / welcome.">
 </p>
 
 <p align="center">
