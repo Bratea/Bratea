@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="100%" role="img" aria-labelledby="title desc">
-  <title id="title">Tongtong (Bratea) — 代码开发小白 · 帅哥</title>
-  <desc id="desc">终端窗口风格个人简介：Tongtong，热爱代码的程序员，技能 Java / Python / Vue / React / Go / C++</desc>
+  <title id="title">Tongtong (Bratea) — Use code to change the world</title>
+  <desc id="desc">终端窗口风格个人简介：Tongtong，Use code to change the world!，whoami 输出 A developer who loves coding / Coding Newbie · Handsome Guy，技能 Java / Python / Vue / React / Go / C++</desc>
 
   <!-- 背景（圆角卡片） -->
   <rect x="0" y="0" width="1200" height="440" rx="24" fill="#0d1117"/>
@@ -18,17 +18,18 @@
   <text id="name" x="72" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="68" font-weight="700" fill="#e6edf3">Tongtong</text>
   <text id="aka" x="430" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" font-weight="600" fill="#8b949e">aka Bratea</text>
 
-  <!-- tagline -->
-  <text id="tagline" x="72" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="500" fill="#f89820">代码开发 小白 帅哥</text>
+  <!-- 座右铭（原 tagline 位置） -->
+  <text id="tagline" x="72" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="500" fill="#f89820">Use code to change the world!</text>
 
   <!-- 分隔线 -->
   <line x1="72" y1="196" x2="1128" y2="196" stroke="#30363d" stroke-width="1.5"/>
 
-  <!-- 终端内容 -->
-  <text id="t1" x="72" y="236" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ whoami</text>
-  <text id="t2" x="72" y="272" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> A developer who loves coding</text>
+  <!-- 终端内容（小一号、紧凑） -->
+  <text id="t1" x="72" y="228" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20" fill="#7ee787">$ whoami</text>
+  <text id="t2" x="72" y="258" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20" fill="#e6edf3"><tspan fill="#f89820">→</tspan> A developer who loves coding</text>
+  <text id="t2b" x="72" y="288" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Coding Newbie · Handsome Guy</text>
 
-  <text id="t3" x="72" y="312" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ skills</text>
-  <text id="t4" x="72" y="348" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Java · Python · Vue · React · Go · C++</text>
-  <rect id="cursor" x="560" y="326" width="14" height="26" rx="2" fill="#e6edf3"/>
+  <text id="t3" x="72" y="318" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20" fill="#7ee787">$ skills</text>
+  <text id="t4" x="72" y="348" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="20" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Java · Python · Vue · React · Go · C++</text>
+  <rect id="cursor" x="495" y="324" width="14" height="24" rx="2" fill="#e6edf3"/>
 </svg>
