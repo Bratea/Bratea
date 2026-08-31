@@ -19,4 +19,7 @@
 
 ---
 
-<p align="center"><b>Stay hungry, stay foolish. — Steve Jobs</b></p>
+<p align="center">
+  <a href="https://tongblog.online"><img align="right" src="https://img.shields.io/badge/blog-007396?style=for-the-badge" alt="blog"></a>
+  <b>Stay hungry, stay foolish. — Steve Jobs</b>
+</p>
