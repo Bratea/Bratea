@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="100%" role="img" aria-labelledby="title desc">
   <title id="title">Tongtong (Bratea) — Java Backend Developer</title>
-  <desc id="desc">终端窗口风格个人简介：Tongtong，Java 后端开发者，计算机专业学生，开源项目 ServAgent / ALL-Study / MiHome-mac / CineLog，博客 tongblog.online</desc>
+  <desc id="desc">终端窗口风格个人简介：Tongtong，热爱代码的程序员，擅长 Java / Python / Vue / React，欢迎语 Welcome to my GitHub!</desc>
 
   <!-- 背景（圆角卡片） -->
   <rect x="0" y="0" width="1200" height="440" rx="24" fill="#0d1117"/>
@@ -26,12 +26,12 @@
 
   <!-- 终端内容 -->
   <text x="72" y="236" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ whoami</text>
-  <text x="72" y="272" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Java Backend Developer · CS Student</text>
+  <text x="72" y="272" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> A developer who loves coding</text>
 
-  <text x="72" y="312" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ ls ~/open-source</text>
-  <text x="72" y="348" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> ServAgent&#160;&#160;ALL-Study&#160;&#160;MiHome-mac&#160;&#160;CineLog</text>
+  <text x="72" y="312" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ skills</text>
+  <text x="72" y="348" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Java · Python · Vue · React</text>
 
-  <text x="72" y="388" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ open https://tongblog.online</text>
-  <text x="72" y="424" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> blog: tongblog.online</text>
-  <rect x="448" y="400" width="14" height="26" rx="2" fill="#e6edf3"/>
+  <text x="72" y="388" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#7ee787">$ welcome</text>
+  <text x="72" y="424" font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3"><tspan fill="#f89820">→</tspan> Welcome to my GitHub! 👋</text>
+  <rect x="428" y="400" width="14" height="26" rx="2" fill="#e6edf3"/>
 </svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Tongtong (Bratea) — Java Backend Developer, CS student. Open-source: ServAgent / ALL-Study / MiHome-mac / CineLog. Blog: tongblog.online">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Tongtong (Bratea) — Java Backend Developer, CS student. Languages: Java / Python / Vue / React. Blog: tongblog.online">
 </p>
 
 <p align="center">
@@ -15,13 +15,6 @@
 </p>
 
 ---
-
-## 👋 About Me
-
-- 🎓 CS 在读本科生，主攻 **Java 后端**（Spring Boot / Spring Cloud），也写 Vue 前端和 Python。
-- ✍️ 维护自研全栈博客 [tongblog.online](https://tongblog.online)（Java + Vue，已备案，国内直连）。
-- 🤖 对 **Java Agent（LangChain4j）** 和多智能体（AutoGen）方向感兴趣。
-- 🔨 喜欢把想法做成小项目，折腾 macOS 工具链。
 
 ## 📊 GitHub Stats
 
