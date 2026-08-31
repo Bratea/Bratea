@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="100%" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" role="img" aria-labelledby="title desc">
   <title id="title">Tongtong (Bratea) — Use code to change the world</title>
   <desc id="desc">终端窗口风格个人简介：Tongtong，Use code to change the world!，whoami 输出 A developer who loves coding / Coding Newbie · Handsome Guy，技能 Java / Python / Vue / React / Go / C++</desc>
 
   <!-- 背景（圆角卡片） -->
-  <rect x="0" y="0" width="1200" height="440" rx="24" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="400" rx="24" fill="#0d1117"/>
 
   <!-- 终端窗口 -->
-  <rect x="40" y="24" width="1120" height="416" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="40" y="24" width="1120" height="376" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- 标题栏 -->
   <circle cx="78" cy="48" r="7" fill="#ff5f56"/>
