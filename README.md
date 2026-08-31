@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&center=true&vCenter=true&width=560&lines=Java+Backend+Developer;CS+Undergraduate+%E2%80%A2+Blogger;Blog+%3A+tongblog.online" alt="Typing SVG — Java Backend Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Small+steps+still+move+you+forward.;Use+code+to+change+the+world;Simple+and+neat,+handsome+without+any+effort." alt="Typing SVG — Small steps still move you forward">
 </p>
 
 ---
