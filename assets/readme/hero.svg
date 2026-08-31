@@ -2,11 +2,11 @@
   <title id="title">Tongtong (Bratea) — Java Backend Developer</title>
   <desc id="desc">终端窗口风格个人简介：Tongtong，Java 后端开发者，计算机专业学生，开源项目 ServAgent / ALL-Study / MiHome-mac / CineLog，博客 tongblog.online</desc>
 
-  <!-- 背景 -->
-  <rect x="0" y="0" width="1200" height="440" fill="#0d1117"/>
+  <!-- 背景（圆角卡片） -->
+  <rect x="0" y="0" width="1200" height="440" rx="24" fill="#0d1117"/>
 
   <!-- 终端窗口 -->
-  <rect x="40" y="24" width="1120" height="416" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="40" y="24" width="1120" height="416" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- 标题栏 -->
   <circle cx="78" cy="48" r="7" fill="#ff5f56"/>
